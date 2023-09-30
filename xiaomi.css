@@ -1,0 +1,71 @@
+body , html {
+    border: 1px dashed #cf807a ;
+}
+h2 {
+    width: 175px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 30px;
+    font-size: 50px;
+    text-shadow: 0 0 10px black;
+    letter-spacing: 5px;
+}
+.circl1 {
+    width: 106px;
+    height: 80px;
+    border-radius: 72% 71% 55% 45% / 90% 90% 10% 10%  ;
+    position: absolute;
+    bottom: -20px;
+    left: -1px;
+}
+.circl2 {
+    width: 103px;
+    height: 80px;
+    border-radius: 72% 71% 55% 45% / 90% 90% 10% 10%  ;
+    position: absolute;
+    bottom: -20px;
+    left: 103px;
+}
+.circl3 {
+    width: 103px;
+    height: 80px;
+    border-radius: 72% 71% 55% 45% / 90% 90% 10% 10%  ;
+    position: absolute;
+    bottom: -20px;
+    left: 204px;
+}
+.circl4 {
+    width: 103px;
+    height: 80px;
+    border-radius: 72% 71% 55% 45% / 90% 90% 10% 10%  ;
+    position: absolute;
+    bottom: -20px;
+    left: 305px;
+}
+header div {
+    background-color: #f0dddd;
+    border: 2px dotted #cf807a;
+    z-index: 0;
+}
+main {
+    width: 100%;
+}
+main div {
+    padding: 10px;
+    column-gap: 15px;
+}
+hr {
+    width: 90%;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+h1 {
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+p {
+    font-size: 20px;
+    line-height: 18px;
+}
